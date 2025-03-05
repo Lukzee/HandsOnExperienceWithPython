@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87cc95ca-5d20-4c97-9305-578e6b5b7e7e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/currency_converter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/qr_code_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/qr_code_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/currency_converter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +35,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.currency_converter.executor": "Run",
     "Python.dice_rolling_game.executor": "Run",
     "Python.number_guessing_game.executor": "Run",
     "Python.qr_code_generator.executor": "Run",
+    "Python.quiz_game.executor": "Run",
     "Python.rock_paper_scissor.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
