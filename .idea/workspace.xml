@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87cc95ca-5d20-4c97-9305-578e6b5b7e7e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/HandsOnExperienceWithPython.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dice_rolling_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/number_guessing_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qr_code_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rock_paper_scissor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/currency_converter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qr_code_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/qr_code_generator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +40,7 @@
     "Python.rock_paper_scissor.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>

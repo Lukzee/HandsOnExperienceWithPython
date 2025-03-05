@@ -38,4 +38,4 @@ def advance_qr_generator(f_color, b_color):
     save_image(img, filename)
 
 # simple_qr_generator()
-advance_qr_generator("white", "black")
+# advance_qr_generator("white", "black")
